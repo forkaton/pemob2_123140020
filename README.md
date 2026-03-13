@@ -16,9 +16,7 @@ Aplikasi ini dibangun dengan memenuhi seluruh kriteria penilaian Tugas Praktikum
 
 ## Dokumentasi Visual
 
-| Android | Desktop |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/9eee6ac7-c316-4e8d-b3bd-234c6f567e68" width="300" alt="Android Screenshot" /> | 
+<img src="https://github.com/user-attachments/assets/9eee6ac7-c316-4e8d-b3bd-234c6f567e68" width="300" alt="Android Screenshot" />
 
 ## Cara Menjalankan Aplikasi
 
